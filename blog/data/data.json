@@ -1,0 +1,136 @@
+{
+	"status": "ok",
+	"totalResults": 10,
+	"articles": [
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Walter Thompson, Annie Siebert",
+			"title": "Extra Crunch roundup: Jam City SPAC, startup PR, telemedicine market map, more",
+			"description": "Full disclosure: the second time I worked at a startup founded by Mark Pincus, his dog Zinga slept behind my desk and I was one of her favorite dogsitters.",
+			"url": "https://techcrunch.com/2021/05/21/extracrunchroundupjamcityspacstartupprtelemedicinemarketmapmore/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2021/05/GettyImages94500475.jpg?w=604",
+			"publishedAt": "20210521T22:30:50Z",
+			"content": "For this morning’s edition of The Exchange, Alex Wilhelm studied information recently released by mobile gaming studio Jam City as it prepares to go public in a $1.2 billion blankcheck deal with DPC… [+19873 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Alex Wilhelm",
+			"title": "Daily Crunch: Snap spends more than $500M to acquire AR display startup WaveOptics",
+			"description": "Hello friends and welcome to Daily Crunch, bringing you the most important startup, tech and venture capital news in a single package.",
+			"url": "https://techcrunch.com/2021/05/21/dailycrunch8/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2021/05/spectacles.jpg?w=764",
+			"publishedAt": "20210521T22:10:29Z",
+			"content": "To get a roundup of TechCrunchs biggest and most important stories delivered to your inbox every day at 3 p.m. PDT, subscribe here.\r\nWelcome to Daily Crunch for May 21, 2021. Closing out the week, bi… [+6710 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Yousuf Khan",
+			"title": "Develop a buyer’s guide to educate your startup's sales team and customers",
+			"description": "The buyer’s guide is a win for both sides: Buyers are informed of what’s to come, and startups can expedite a potential deal by preempting any concerns about a product and/or the sales process.",
+			"url": "https://techcrunch.com/2021/05/21/developabuyersguidetoeducateyourstartupssalesteamandcustomers/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2021/05/GettyImages1206008726.jpg?w=599",
+			"publishedAt": "20210521T21:46:51Z",
+			"content": "Every company wants to be innovative, but innovation comes with its share of difficulties. One key challenge for earlystage companies that are disrupting a particular space or creating a new categor… [+2009 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Taylor Hatmaker",
+			"title": "White House teams up with dating apps to give vaccinated users free perks",
+			"description": "With vaccination rates slowing in the U.S., the White House is getting creative about getting shots in arms. Beyond protecting yourself and others from from a deadly disease, the latest incentive to get vaccinated could help you find love (or get laid). The W…",
+			"url": "https://techcrunch.com/2021/05/21/vaccinatedbadgesfreebooststinderbumbleokcupidblkchispa/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2019/07/GettyImages625496334.jpg?w=600",
+			"publishedAt": "20210521T21:32:27Z",
+			"content": "With vaccination rates slowing in the U.S., the White House is getting creative about getting shots in arms. Beyond protecting yourself and others from from a deadly disease, the latest incentive to … [+2140 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Kirsten Korosec",
+			"title": "The first electric Popemobile will be a Fisker Ocean SUV",
+			"description": "Fisker Inc., the EV startupturned publicly traded company, is working on a modified version of its allelectric Ocean SUV for Pope Francis. The company said Friday that it plans to deliver to the Vatican late next year a Popemobile based on its upcoming Fisk…",
+			"url": "https://techcrunch.com/2021/05/21/thefirstelectricpopemobilewillbeafiskeroceansuv/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2021/05/papalfisker.jpg?w=621",
+			"publishedAt": "20210521T21:15:58Z",
+			"content": "Fisker Inc., the EV startupturned publicly traded company, is working on a modified version of its allelectric Ocean SUV for Pope Francis.\r\nThe company said Friday that it plans to deliver to the V… [+1527 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Kirsten Korosec",
+			"title": "Chinese startup Pony.ai can now test driverless vehicles in three California cities",
+			"description": "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities. While dozens of companies — 55 in all — have active permits to test autonomous…",
+			"url": "https://techcrunch.com/2021/05/21/chinesestartupponyaicannowtestdriverlessvehiclesinthreecaliforniacities/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2019/04/ScreenShot20190412at6.56.57PM.png?w=764",
+			"publishedAt": "20210521T20:31:15Z",
+			"content": "Chinese robotaxi startup Pony.ai has been given permission by California regulators to pilot its autonomous vehicles without a human safety driver behind the wheel in three cities.\r\nWhile dozens of c… [+3510 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Devin Coldewey",
+			"title": "Tim Cook plays innocent in Epic v Apple's culminating testimony",
+			"description": "Apple CEO Tim Cook took his first turn in the witness chair this morning in what is probably the most anticipated testimony of the Epic v. Apple antitrust case. But rather than a fiery condemnation of Epic’s shenanigans and allegations, Cook offered a mild, c…",
+			"url": "https://techcrunch.com/2021/05/21/timcookplaysinnocentinepicvapplesculminatingtestimony/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2015/11/465709344.jpg?w=553",
+			"publishedAt": "20210521T19:18:22Z",
+			"content": "Apple CEO Tim Cook took his first turn in the witness chair this morning in what is probably the most anticipated testimony of the Epic v. Apple antitrust case. But rather than a fiery condemnation o… [+7273 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Roxanne Petraeus",
+			"title": "Politics and personal time: Making room for both at work",
+			"description": "Work and what’s going on in the world are inextricably connected. And while I don’t know exactly how to navigate the choppy waters, a recent experience helped my team crystallize a few lessons.",
+			"url": "https://techcrunch.com/2021/05/21/politicsandpersonaltimemakingroomforbothatwork/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2021/05/GettyImages1303781671.jpg?w=608",
+			"publishedAt": "20210521T18:58:19Z",
+			"content": "We have a monthly company book club at our company. Its in the evening and our whole team attends (yes, were really into book clubs), so it made sense that a few minutes before our book club on the e… [+5782 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Ethan Choi",
+			"title": "5 predictions for the future of ecommerce",
+			"description": "The directtoconsumer wave is a critical enabler for the ecommerce progress we expect to see over the next decade as we strive toward inevitable 50% penetration.",
+			"url": "https://techcrunch.com/2021/05/21/5predictionsforthefutureofecommerce/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2021/05/GettyImages664650106.jpg?w=600",
+			"publishedAt": "20210521T18:35:09Z",
+			"content": "In 2016, more than 20 years after Amazons founding and 10 years since Shopify launched, it would have been easy to assume ecommerce penetration (the percentage of total retail spend where the goods … [+1879 chars]"
+		},
+		{
+			"source": {
+				"id": "techcrunch",
+				"name": "TechCrunch"
+			},
+			"author": "Emma Betuel",
+			"title": "Mental health app Wysa raises $5.5M for 'emotionally intelligent' AI",
+			"description": "It’s hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping you’ll find it easier to confide in a robot. Or, put more specifically, “emotionally intelligent” artificial intelligence. Wysa is an A.I powered men…",
+			"url": "https://techcrunch.com/2021/05/21/mentalhealthappwysaraises55mforemotionallyintelligentai/",
+			"urlToImage": "https://techcrunch.com/wpcontent/uploads/2021/05/wysaappfeature.jpg?w=586",
+			"publishedAt": "20210521T17:33:11Z",
+			"content": "Its hard enough to talk about your feelings to a person; Jo Aggarwal, the founder and CEO of Wysa, is hoping youll find it easier to confide in a robot. Or, put more specifically, emotionally intelli… [+6045 chars]"
+		}
+	]
+}

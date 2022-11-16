@@ -1,0 +1,12 @@
+version: "3.8"
+
+services: 
+    fusedjango:
+        build: .
+        volumes:
+            - .:/fusedjango
+        ports: 
+            - 8000:8000
+        image: fusedjango:1.0
+        container_name: fd_container
+        command: python manage.py runserver 0.0.0.0:8000

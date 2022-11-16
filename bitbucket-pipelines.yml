@@ -1,0 +1,15 @@
+image: python:3.9
+
+pipelines:
+  default:
+    - step:
+        name: Testing 
+        script:
+          - echo "Hello this is fusedjango app CI/CD setup"
+    - step:
+        name: run cases fusedjango app
+        deployment: test
+        script:
+          - pip install -r requirements.txt
+          - python manage.py runserver
+        
